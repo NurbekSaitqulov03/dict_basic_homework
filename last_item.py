@@ -1,4 +1,4 @@
-def last_item(data):
+def last_item(data:dict):
     """
     Given a dictionary, Return last item value.
     """
